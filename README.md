@@ -6,4 +6,4 @@
 
 Запускать приложение как обычно 
 
-ocker  run --publish=0.0.0.0:80:5000  -v /srv/app/:/srv/app/ -w /srv/app -i -t 8f3d3dfafd09
+docker  run --publish=0.0.0.0:80:5000  -v /srv/app/:/srv/app/ -w /srv/app -i -t 8f3d3dfafd09
